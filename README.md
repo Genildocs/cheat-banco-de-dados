@@ -36,7 +36,7 @@ Simplesmente abra o arquivo `index.html` em qualquer navegador moderno.
 ### Opção 2: Servidor Local
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/cheat-banco-de-dados.git
+git clone https://github.com/Genildocs/cheat-banco-de-dados
 
 # Entre no diretório
 cd cheat-banco-de-dados
@@ -116,6 +116,10 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
+- GitHub: [@Genildocs](https://github.com/Genildocs)
+- LinkedIn: [genildo-cerqueira](https://www.linkedin.com/in/genildo-cerqueira-91888786/)
+- Email: genildocs@gmail.com
+
 Criado com ❤️ para a comunidade de desenvolvedores.
 
 ## 🌟 Apoie o Projeto
@@ -125,10 +129,6 @@ Se este projeto te ajudou, considere:
 - 🍴 Fazer um fork
 - 📢 Compartilhar com outros desenvolvedores
 - 🐛 Reportar bugs ou sugerir melhorias
-
-## 📞 Contato
-
-Tem alguma dúvida ou sugestão? Abra uma [issue](../../issues) ou entre em contato!
 
 ---
 
