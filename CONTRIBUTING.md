@@ -39,7 +39,7 @@ Para sugerir novas funcionalidades:
 # 1. Fork o repositório no GitHub
 
 # 2. Clone seu fork
-git clone https://github.com/SEU-USUARIO/cheat-banco-de-dados.git
+git clone https://github.com/Genildocs/cheat-banco-de-dados
 
 # 3. Entre no diretório
 cd cheat-banco-de-dados
